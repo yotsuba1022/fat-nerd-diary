@@ -15,6 +15,8 @@ TODO List
     * [Reactive Programming with Spring Framework 5](https://www.udemy.com/reactive-programming-with-spring-framework-5/learn/v4/overview)
     * [Master Jenkins CI For DevOps and Developers](https://www.udemy.com/the-complete-jenkins-course-for-developers-and-devops/learn/v4/overview)
         * New section added
+    * [Complete Python Bootcamp: Go from zero to hero](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview)
+        * New section added
 
 * Book
     * [Java SE 9 技術手冊](https://www.tenlong.com.tw/products/9789864766758)
@@ -31,6 +33,7 @@ Finished List
     * [Docker技術入門與實戰](https://www.udemy.com/docker-china/learn/v4/overview)
     * [使用 HTML、CSS 開發一個網站](https://www.udemy.com/html-css-learning/learn/v4/overview)
     * [使用 jQuery 打造互動性網頁動畫效果](https://www.udemy.com/jquery-learning/learn/v4/overview)
+    * [Complete Python Bootcamp: Go from zero to hero](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview)
     * [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview)
     * [Python 網頁爬蟲入門實戰](https://hahow.in/courses/58744feda8aae907000d06c0/discussions)
 
