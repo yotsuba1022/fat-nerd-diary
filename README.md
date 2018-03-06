@@ -4,17 +4,17 @@
 
 * **Online Course**<br /><br />
 
-    | Name | Source | Progress|
-    | :-------------: | :-------------: | :-----:|
-    | Spring Framework 5: Beginner to Guru | [Link](https://www.udemy.com/spring-framework-5-beginner-to-guru/learn/v4/overview) | Section 5 |
+    | Name | Source | Progress |
+    | :-------------: | :-------------: | :-----: |
+    | Spring Framework 5: Beginner to Guru | [Link](https://www.udemy.com/spring-framework-5-beginner-to-guru/learn/v4/overview) | Section 6 |
     | Reactive Programming with Spring Framework 5 | [Link](https://www.udemy.com/reactive-programming-with-spring-framework-5/learn/v4/overview) | N/A |
     | Master Jenkins CI For DevOps and Developers | [Link](https://www.udemy.com/the-complete-jenkins-course-for-developers-and-devops/learn/v4/overview)| New Section Added |
     | Complete Python Bootcamp: Go from zero to hero | [Link](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview) | New Section Added |
 
 * **Book**<br /><br />
 
-    | Name | Source | Progress|
-    | :-------------: | :-------------: | :-----:|
+    | Name | Source | Progress |
+    | :-------------: | :-------------: | :-----: |
     | Java SE 9 技術手冊 | [Link](https://www.tenlong.com.tw/products/9789864766758)| 教學用 |
     | 深入理解Java虛擬機 - JVM高級特性與最佳實踐 | [Lunk](https://www.tenlong.com.tw/products/9787111421900) | Chapter 4 |
     | Java性能調優指南 | [Link](https://www.tenlong.com.tw/products/9787121309816) | N/A |
