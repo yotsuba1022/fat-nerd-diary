@@ -15,7 +15,7 @@
 
     | Name | Source | Progress |
     | :-------------: | :-------------: | :-----: |
-    | Effective Java (3rd Edition) | [Link](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=mt_paperback?_encoding=UTF8&me=) | N/A |
+    | Effective Java (3rd Edition) | [Link](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=mt_paperback?_encoding=UTF8&me=) | Chapter 2 |
     | Java SE 9 技術手冊 | [Link](https://www.tenlong.com.tw/products/9789864766758)| 教學用 |
     | 深入理解Java虛擬機 - JVM高級特性與最佳實踐 | [Link](https://www.tenlong.com.tw/products/9787111421900) | Chapter 4 |
     | Java性能調優指南 | [Link](https://www.tenlong.com.tw/products/9787121309816) | N/A |
