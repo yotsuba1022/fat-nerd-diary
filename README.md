@@ -8,6 +8,7 @@
     | :-------------: | :-------------: | :-----: |
     | Spring Framework 5: Beginner to Guru | [Link](https://www.udemy.com/spring-framework-5-beginner-to-guru/learn/v4/overview) | Section 8 |
     | Reactive Programming with Spring Framework 5 | [Link](https://www.udemy.com/reactive-programming-with-spring-framework-5/learn/v4/overview) | N/A |
+    | Learn How To Code: Google’s Go (golang) Programming Language | [Link](https://www.udemy.com/learn-how-to-code/learn/v4/overview) | Section 3 |
     | Master Jenkins CI For DevOps and Developers | [Link](https://www.udemy.com/the-complete-jenkins-course-for-developers-and-devops/learn/v4/overview)| New Section Added |
     | Complete Python Bootcamp: Go from zero to hero | [Link](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview) | New Section Added |
 
@@ -15,7 +16,7 @@
 
     | Name | Source | Progress |
     | :-------------: | :-------------: | :-----: |
-    | Effective Java (3rd Edition) | [Link](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=mt_paperback?_encoding=UTF8&me=) | Chapter 2 |
+    | Effective Java (3rd Edition) | [Link](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=mt_paperback?_encoding=UTF8&me=) | Chapter 3 |
     | Java SE 9 技術手冊 | [Link](https://www.tenlong.com.tw/products/9789864766758)| 教學用 |
     | 深入理解Java虛擬機 - JVM高級特性與最佳實踐 | [Link](https://www.tenlong.com.tw/products/9787111421900) | Chapter 4 |
     | Java性能調優指南 | [Link](https://www.tenlong.com.tw/products/9787121309816) | N/A |
