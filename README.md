@@ -9,7 +9,7 @@
     | Spring Framework 5: Beginner to Guru | [Link](https://www.udemy.com/spring-framework-5-beginner-to-guru/learn/v4/overview) | Section 11 |
     | Reactive Programming with Spring Framework 5 | [Link](https://www.udemy.com/reactive-programming-with-spring-framework-5/learn/v4/overview) | N/A |
     | Learn How To Code: Google’s Go (golang) Programming Language | [Link](https://www.udemy.com/learn-how-to-code/learn/v4/overview) | Section 3 |
-    | SSL/TLS Operations | [Link](https://www.udemy.com/ssltls-operations/learn/v4/overview) | Section 4 |
+    | SSL/TLS Operations | [Link](https://www.udemy.com/ssltls-operations/learn/v4/overview) | Section 5 |
     | Master Jenkins CI For DevOps and Developers | [Link](https://www.udemy.com/the-complete-jenkins-course-for-developers-and-devops/learn/v4/overview)| New Section Added |
     | Complete Python Bootcamp: Go from zero to hero | [Link](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview) | New Section Added |
 
